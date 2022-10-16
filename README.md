@@ -1,6 +1,7 @@
-# Data-Engineering-Credit-Card-Transactions
+<h1 align="center"><font color='blue'>Data-Engineering-Credit-Card-Transactions</font></h1>
 
-## Project Description
+
+<h3 align="left"><font color='blue'>Project Description</font></h3>
 
 This project is a case study for a credit card company to determine the level of transactions over time and for what services are primarily related. 
 
@@ -10,7 +11,7 @@ To do this, we will be using the following data sets:
 - [Geographical Name Location Data](https://www.census.gov/)
 - [Daylight Data](http://api.timezonedb.com/v2.1/get-time-zone?time=2018-01-01&key=yourapikey&format=json)
 
-## Domain Background
+<h3 align="left"><font color='blue'>Domain Background</font></h3>
 
 This project looks to define and understand whether or not there is any correlation between the factors listed above. It will also address whether or not there is an association with these factors and if the correlations are proportional. 
 
